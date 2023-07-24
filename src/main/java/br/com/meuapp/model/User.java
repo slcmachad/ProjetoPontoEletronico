@@ -2,6 +2,8 @@ package br.com.meuapp.model;
 
 import jakarta.persistence.*;
 
+import java.util.List;
+
 
 @Entity
 public class User {
@@ -18,6 +20,10 @@ public class User {
     @Column(nullable = false)
     private String password;
 
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
+    private List<TimeRecord> timeRecords;
+
+
     public User(){}
 
     public User(String name, String username, String password) {
@@ -25,4 +31,6 @@ public class User {
         this.username = username;
         this.password = password;
     }
+
+
 }
