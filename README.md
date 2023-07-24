@@ -27,3 +27,10 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 - Arquitetura: MVC (Model-View-Controller)
 - Linguagem de Programação e Framework: Java e Spring Boot
 - Banco de Dados: PostgreSQL
+
+## Instruções de Desenvolvimento
+
+1. Clone este repositório para a sua máquina local.
+2. Importe o projeto no IntelliJ IDEA ou outra IDE de sua preferência como um projeto Maven.
+3. Configure corretamente o banco de dados PostgreSQL no arquivo de configuração do projeto (application.properties ou application.yml).
+4. Siga os passos de desenvolvimento descritos no arquivo README.md.
