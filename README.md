@@ -21,3 +21,9 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 - Usabilidade: Desenvolver uma interface de usuário intuitiva e de fácil utilização, tornando o registro de ponto e o gerenciamento de funcionários simples e acessível.
 - Performance: Garantir que a aplicação seja responsiva e eficiente, mesmo com um número crescente de funcionários e registros de ponto.
 - Escalabilidade: Projetar a aplicação para lidar com um aumento futuro no número de usuários e funcionários sem comprometer o desempenho.
+
+## Arquitetura e Tecnologias Utilizadas
+
+- Arquitetura: MVC (Model-View-Controller)
+- Linguagem de Programação e Framework: Java e Spring Boot
+- Banco de Dados: PostgreSQL
