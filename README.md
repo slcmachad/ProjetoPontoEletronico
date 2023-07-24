@@ -34,3 +34,13 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 2. Importe o projeto no IntelliJ IDEA ou outra IDE de sua preferência como um projeto Maven.
 3. Configure corretamente o banco de dados PostgreSQL no arquivo de configuração do projeto (application.properties ou application.yml).
 4. Siga os passos de desenvolvimento descritos no arquivo README.md.
+
+## Cronograma e Recursos Necessários
+
+O projeto será dividido em etapas de desenvolvimento, conforme o cronograma abaixo:
+
+- Parte 1: Planejamento e Definição de Requisitos (2 semanas)
+- Parte 2: Desenvolvimento do Back-end (4 semanas)
+- Parte 3: Desenvolvimento do Front-end (4 semanas)
+- Parte 4: Testes e Ajustes (2 semanas)
+- Parte 5: Implementação e Deploy (1 semana)
