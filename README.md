@@ -15,3 +15,9 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 - Gerenciamento de funcionários: O administrador poderá adicionar novos funcionários, atualizar informações dos funcionários existentes e também remover funcionários quando necessário.
 - Registro e controle de pagamento: A aplicação permitirá ao administrador inserir o valor correspondente à hora de trabalho dos funcionários e registrar os valores pagos a cada um. Isso possibilitará calcular o lucro com base nas horas trabalhadas e os valores pagos.
 
+## Requisitos Não Funcionais
+
+- Segurança: Implementar mecanismos de autenticação segura para proteger os dados sensíveis e garantir que apenas usuários autorizados possam acessar informações confidenciais.
+- Usabilidade: Desenvolver uma interface de usuário intuitiva e de fácil utilização, tornando o registro de ponto e o gerenciamento de funcionários simples e acessível.
+- Performance: Garantir que a aplicação seja responsiva e eficiente, mesmo com um número crescente de funcionários e registros de ponto.
+- Escalabilidade: Projetar a aplicação para lidar com um aumento futuro no número de usuários e funcionários sem comprometer o desempenho.
