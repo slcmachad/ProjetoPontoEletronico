@@ -39,7 +39,7 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 
 O projeto será dividido em etapas de desenvolvimento, conforme o cronograma abaixo:
 
-- Parte 1: Planejamento e Definição de Requisitos (2 semanas)
+- <div style="color: green;">Parte 1: Planejamento e Definição de Requisitos (2 semanas - atual)</div>
 - Parte 2: Desenvolvimento do Back-end (4 semanas)
 - Parte 3: Desenvolvimento do Front-end (4 semanas)
 - Parte 4: Testes e Ajustes (2 semanas)
