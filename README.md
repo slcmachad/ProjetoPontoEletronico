@@ -44,3 +44,9 @@ O projeto será dividido em etapas de desenvolvimento, conforme o cronograma aba
 - Parte 3: Desenvolvimento do Front-end (4 semanas)
 - Parte 4: Testes e Ajustes (2 semanas)
 - Parte 5: Implementação e Deploy (1 semana)
+
+Recursos Necessários:
+
+- Equipe de Desenvolvimento: Um desenvolvedor Java e um desenvolvedor front-end.
+- Ambiente de Desenvolvimento: Computadores com as configurações necessárias para desenvolvimento Java e front-end.
+- Servidor de Hospedagem: Para uso próprio no pequeno comércio, é possível optar por uma hospedagem simples e econômica, adequada para o tráfego esperado.
