@@ -28,8 +28,8 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 ## Arquitetura e Tecnologias Utilizadas
 
 - Arquitetura: MVC (Model-View-Controller)
-- Linguagem de Programação e Framework: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> e Spring Boot
-- Banco de Dados: PostgreSQL
+- Linguagem de Programação e Framework: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> e <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+- Banco de Dados: <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 🔨 Em construção 🔨
 ## Instruções de Desenvolvimento
