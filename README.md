@@ -1,6 +1,5 @@
 🔨 Em construção 🔨
 
-
 # Aplicação de Ponto Eletrônico
 
 ## Descrição do Projeto
