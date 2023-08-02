@@ -25,6 +25,7 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 - Escalabilidade: Projetar a aplicação para lidar com um aumento futuro no número de usuários e funcionários sem comprometer o desempenho.
 
 🔨 Em construção 🔨
+
 ## Arquitetura e Tecnologias Utilizadas
 
 - Arquitetura: MVC (Model-View-Controller)
