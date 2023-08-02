@@ -1,5 +1,6 @@
-🔨 Projeto Em construção 🔨
+🔨 Em construção 🔨
 
+(Projeto em construção)
 # Aplicação de Ponto Eletrônico
 
 ## Descrição do Projeto
