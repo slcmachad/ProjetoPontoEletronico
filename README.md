@@ -33,6 +33,7 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 - Banco de Dados: <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 🔨 Em construção 🔨
+
 ## Instruções de Desenvolvimento
 
 1. Clone este repositório para a sua máquina local.
