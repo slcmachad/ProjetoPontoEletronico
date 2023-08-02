@@ -39,6 +39,7 @@ Este é um projeto de uma aplicação de ponto eletrônico desenvolvido em Sprin
 4. Siga os passos de desenvolvimento descritos no arquivo README.md.
 
 🔨 Em construção 🔨
+
 ## Cronograma e Recursos Necessários
 
 O projeto será dividido em etapas de desenvolvimento, conforme o cronograma abaixo:
